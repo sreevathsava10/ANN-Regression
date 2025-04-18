@@ -21,7 +21,7 @@ with open('onehot_encoder.pkl', 'rb') as file:
 st.title("Customer Salary Prediction")
 
 geography = st.selectbox("Geography", onehot_encoder.categories_[0])
-gender = st.selectbox('Gender',LabelEncoder.categories_[0])
+gender = st.selectbox('Gender',label_encoder.categories_[0])
 age = st.slider('Age', 18, 80, 1)
 balance = st.number_input('Balance', 0.0, 100000.0, 1.0)
 credit_score = st.number_input('Credit Score', 0.0, 850.0, 1.0)
