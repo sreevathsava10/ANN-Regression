@@ -1,5 +1,3 @@
----
-
 # 🧠 ANN-Regression
 
 A simple and interactive web application demonstrating **Artificial Neural Network (ANN)** based regression, built using **TensorFlow/Keras** and deployed with **Streamlit**.
