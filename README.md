@@ -67,12 +67,6 @@ To run this app locally:
 
 ---
 
-## 📊 Screenshots
-
-
-
-<img width="1909" height="817" alt="image" src="https://github.com/user-attachments/assets/1efbdcb3-6e96-4e23-97ce-7c4534cd239c" />
-
 
 ---
 
